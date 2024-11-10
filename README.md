@@ -1,6 +1,6 @@
 # Lapis
 
-**Lapis** is a TypeScript-based tool that allows you to host multiple API links simultaneously, providing a simple interface to manage and interact with multiple API endpoints within a single application. This is ideal for applications that need to communicate with various APIs in real-time or perform extensive API aggregation.
+A lightweight, modular TypeScript API framework with built-in caching, validation, and monitoring. Create and manage REST APIs with minimal boilerplate.
 
 ## Table of Contents
 
@@ -15,15 +15,18 @@
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (version 16 or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Python](https://www.python.org/) (version 3.8 or higher
+  
 
 ### Local Installation
 
 1. Clone the repository
-   git clone https://github.com/1etu/lapis.git
-   cd lapis
-   ```
+```bash
+git clone https://github.com/1etu/lapis.git
+cd lapis
+```
 
-2. Install Dependecies:
+3. Install Dependecies:
 ```bash
 npm install
 ```
