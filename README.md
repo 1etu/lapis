@@ -60,7 +60,7 @@ node build.js
 
 1. Fork the repository.
 2. Create a new branch (feature/your-feature-name).
-3. 3. Make your changes.
+3. Make your changes.
 4. Commit your changes and push to the branch.
 5. Submit a pull request.
 6. Please ensure all code follows the project’s style guide and passes tests.
