@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "metadata": {
+    "name": "boolean",
+    "version": "1.0.0",
+    "description": "Returns a boolean value - either random or specified",
+    "tags": ["utility", "random", "boolean"]
+  }
+} 
